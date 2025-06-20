@@ -1,6 +1,6 @@
 // AES.h
 //
-// AES (Advanced Encryption Standard) for C++ strings using CommomCrypto library.
+// AES (Advanced Encryption Standard) for C++ strings using CommonCrypto library.
 // Made by GrimReaper31, 15/01/2024.
 //
 
